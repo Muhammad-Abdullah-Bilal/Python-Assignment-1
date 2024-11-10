@@ -1,17 +1,5 @@
 # Python Assignment 1
 
-## Instructions
-1. Solve each question and test your code.
-2. Each question should be solved in a separate file.
-3. Create two folders:
-   - `Conditional_Statements` for Part 1 questions
-   - `Loops` for Part 2 questions
-4. Upload your completed assignment to GitHub.
-5. Write a LinkedIn post sharing your work and insights on this assignment.
-6. Submit both your GitHub repository URL and LinkedIn post URL in the Google Form (link to be shared soon).
-
----
-
 ### Part 1: Conditional Statements (20 Questions)
 
 1. Write a program that checks if a given number is positive, negative, or zero.
@@ -61,5 +49,3 @@
 20. Create a program that simulates a countdown timer starting from a given number down to zero.
 
 ---
-
-These questions will reinforce concepts of conditional statements and loops. Please test your code thoroughly and ask for help in the discussion group if you have any questions.
